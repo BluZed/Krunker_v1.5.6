@@ -6,6 +6,9 @@
 
 # Krunker v1.5.6 - Offline
 
+>**Note: I do not own this, the credit goes to the Krunker Developer Team & related people who made / contributed to the game and if they want this or any part of this removed, I'm willing to do so, without any strings attached.**
+>
+
 Yeah this is exactly what the title says. 
 This is Krunker, version 1.5.6 released on August 19, 2019, which is just the version in which the commando class was added in game. I made it so that you can play that version of the game, right now, by downloading this and following the instructions properly. However, there are some major drawbacks.
 1) Multiplayer **does not** work. Support for multiplayer may be added in future.
@@ -25,9 +28,6 @@ This is Krunker, version 1.5.6 released on August 19, 2019, which is just the ve
 This is solely made for the purpose of revisiting og krunker by players who used to play the game or for people who are just curious.
 A heads up, slidehopping was a bit different back then ;)
 <div><br></div>
-
->**Note: I do not own this, the credit goes to the Krunker Developer Team who made the game and if they want this or any part of this removed, I'm willing to do so, without any strings attached.**
->
 
 
 ### Important: Keybinds
